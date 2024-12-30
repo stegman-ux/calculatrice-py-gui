@@ -8,7 +8,7 @@ Je suis débutant , si vous avais des idée de quoi faire pour ameliorer ce scri
 
 ## installation : 
 
-**vous pouvez lancer le fichier via le fichier __open source__ . J'ai aussi compiler le fichier donc vous pouvez aussi le lancer via l'executable pour une experience optimal.**
+**vous pouvez lancer le fichier via le fichier __open source__ . J'ai aussi compiler le fichier (dans le dossier calculatrice-exec) donc vous pouvez aussi le lancer via l'executable pour une experience optimal.**
 
 **crédit : `Made by intrable.`
 
